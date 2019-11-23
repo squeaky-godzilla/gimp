@@ -1,0 +1,10 @@
+DoomRun:
+  defaultsPath: ./defaults.yml
+  iwad: doom2.wad
+  pwads: 
+    - brutalv21.pk3
+    - bd21.0.3patch.pk3
+    - bd21_xvme1.3.1_TPR_(patch21.0.3).pk3
+    - bd21_xvme1.3.1_respawner_TPR_(patch21.0.3).pk3
+    - bdv21_mut_EWM & Totemfars light_TPR.pk3
+    - mapsofchaos-ok.wad

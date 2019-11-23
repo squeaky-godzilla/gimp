@@ -1,0 +1,4 @@
+DoomDefault:
+  gzdoom: /usr/games/gzdoom
+  iwadFolder: /home/vitek/.config/gzdoom
+  pwadFolder: /home/vitek/.config/gzdoom
