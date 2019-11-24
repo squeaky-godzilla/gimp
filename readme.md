@@ -1,7 +1,7 @@
 ![alt](/img/gimpy_logo.png)
 # Gopher Imp - YAML based zDoom launcher
 
-a Go port of Python [yzdoom](https://github.com/squeaky-godzilla/yzdoom) with some minor changes, aimed at cross-platform compatibility and minimize overhead.
+a Go port of Python [yzdoom](https://github.com/squeaky-godzilla/yzdoom) with some minor changes, aimed at cross-platform compatibility and minimized overhead.
 
 ## What it does
 **gimpy** allows you to create a [zdoom](https://zdoom.org/index) run setup in YAML, which means minimal overhead no-nonsense game launch with a trendy devops feeling to it.
